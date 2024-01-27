@@ -1,4 +1,4 @@
-# Dante_Portfolio
+# Machine Learning Portfolio
 
 There are 2 data science projects here
 
