@@ -1,5 +1,7 @@
 # Machine Learning Portfolio
 
+Edit 1.29.2024 Added Diabetes analysis project
+
 There are 2 data science projects here
 
 ##Dash App Diamond Price Prediction Application: predicting diamond prices using a neural network.
